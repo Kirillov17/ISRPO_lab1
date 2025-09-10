@@ -1,0 +1,32 @@
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб_11.Form1.resources
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.csproj.GenerateResource.cache
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.GeneratedMSBuildEditorConfig.editorconfig
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.AssemblyInfoInputs.cache
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.AssemblyInfo.cs
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.csproj.CoreCompileInputs.cache
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.exe
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.deps.json
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.runtimeconfig.json
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.dll
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.pdb
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.dll
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\refint\Лаб 11.dll
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.pdb
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.genruntimeconfig.cache
+F:\МДК РАзработка програмных модулей\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\ref\Лаб 11.dll
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб_11.Form1.resources
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.csproj.GenerateResource.cache
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.AssemblyInfoInputs.cache
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.AssemblyInfo.cs
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.csproj.CoreCompileInputs.cache
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.dll
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\refint\Лаб 11.dll
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.pdb
+E:\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.exe
+E:\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.deps.json
+E:\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.runtimeconfig.json
+E:\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.dll
+E:\Лаб 11\Лаб 11\bin\Debug\net8.0-windows\Лаб 11.pdb
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\Лаб 11.genruntimeconfig.cache
+E:\Лаб 11\Лаб 11\obj\Debug\net8.0-windows\ref\Лаб 11.dll
